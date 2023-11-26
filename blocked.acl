@@ -1,7 +1,14 @@
+.imasdk.googleapis.com
+.api3.siftscience.com
+.audio-ak-spotify-com.akamaized.net
+.heads-fa.scdn.co
+.api.mixpanel.com
+.mobile-http-intake.logs.datadoghq.com
+.sdk.iad-03.braze.com
+.api3.siftscience.com
 .googleadservices.com
 .consent.cookiebot.com
 .web.facebook.com
-.static.doubleclick.net
 .doubleclick.net
 .firebaselogging-pa.googleapis.com
 .id.google.com
